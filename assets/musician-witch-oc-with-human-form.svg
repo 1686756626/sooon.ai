@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#11101a"/>
+      <stop offset="1" stop-color="#251824"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="55%">
+      <stop offset="0" stop-color="#806a9a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .title{font-family:serif;font-size:76px;fill:#eee4ea;letter-spacing:8px}.en{font-family:serif;font-size:26px;fill:#c9b6c8;letter-spacing:3px}.box{fill:#15131c;stroke:#8d6f78;stroke-width:2}.h{font-family:serif;font-size:28px;fill:#f0c7d1}.t{font-family:serif;font-size:20px;fill:#e0d3da}.s{font-family:serif;font-size:16px;fill:#b9aab5}.red{fill:#7e1c24}.line{stroke:#8d6f78;stroke-width:2;fill:none}.note{font-family:serif;font-size:42px;fill:#d7a9c4}.smallnote{font-family:serif;font-size:30px;fill:#b995c0}
+    </style>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#bg)"/>
+  <rect width="1200" height="1800" fill="url(#glow)"/>
+  <rect x="26" y="26" width="1148" height="1748" rx="12" class="line"/>
+  <text x="62" y="110" class="title">音乐家魔女</text>
+  <text x="66" y="150" class="en">THE MUSICIAN WITCH / OC CHARACTER SHEET</text>
+  <text x="720" y="118" class="t">我的音乐，就是你们无法承受的完美。</text>
+
+  <rect x="54" y="195" width="300" height="350" class="box"/>
+  <text x="78" y="238" class="h">基本信息</text>
+  <text x="78" y="286" class="t">类型：音乐家魔女</text>
+  <text x="78" y="324" class="t">生前：抑郁症音乐家</text>
+  <text x="78" y="362" class="t">愿望：取之不尽的灵感</text>
+  <text x="78" y="400" class="t">核心：痛苦即灵感</text>
+  <text x="78" y="438" class="t">结界：巨大八音盒</text>
+  <text x="78" y="476" class="t">主器：三味线 / 风铃 / 音符</text>
+
+  <g transform="translate(410 205)">
+    <ellipse cx="300" cy="110" rx="300" ry="62" fill="#2a2432" stroke="#9b7d86" stroke-width="4"/>
+    <rect x="0" y="110" width="600" height="70" fill="#211b26" stroke="#9b7d86" stroke-width="3"/>
+    <ellipse cx="300" cy="180" rx="300" ry="62" fill="#16131b" stroke="#9b7d86" stroke-width="3"/>
+    <line x1="300" y1="45" x2="300" y2="290" stroke="#b9aab5" stroke-width="3"/>
+    <circle cx="300" cy="350" r="70" fill="#cfd4d9" stroke="#73677a" stroke-width="5"/>
+    <circle cx="275" cy="340" r="13" fill="#19141a"/><circle cx="330" cy="342" r="13" fill="#19141a"/>
+    <path d="M238 405 C210 520 220 650 300 720 C380 650 398 520 362 405 Z" fill="#d9dde0" stroke="#73677a" stroke-width="4"/>
+    <path d="M235 650 C280 675 340 675 365 650 C358 705 336 740 300 760 C262 738 238 705 235 650 Z" class="red"/>
+    <line x1="235" y1="505" x2="460" y2="430" stroke="#7d4a31" stroke-width="14"/>
+    <line x1="450" y1="425" x2="520" y2="388" stroke="#9bc66a" stroke-width="20"/>
+    <circle cx="230" cy="508" r="38" fill="#b5d56a" stroke="#647a42" stroke-width="4"/>
+    <path d="M210 503 C250 525 275 535 310 545" stroke="#ecdfb5" stroke-width="5" fill="none"/>
+    <path d="M185 435 C120 405 110 520 165 540" stroke="#9e9cc0" stroke-width="10" fill="none" opacity="0.55"/>
+    <path d="M420 445 C490 405 510 520 445 540" stroke="#9e9cc0" stroke-width="10" fill="none" opacity="0.55"/>
+    <text x="55" y="250" class="smallnote">♪</text><text x="535" y="250" class="smallnote">♫</text><text x="90" y="610" class="smallnote">♬</text><text x="500" y="620" class="smallnote">♪</text>
+  </g>
+
+  <rect x="54" y="585" width="330" height="455" class="box"/>
+  <text x="78" y="628" class="h">人形态（生前）</text>
+  <g transform="translate(150 675)">
+    <ellipse cx="70" cy="42" rx="48" ry="58" fill="#22202a"/>
+    <path d="M25 55 C15 130 20 240 70 286 C118 238 125 130 112 55" fill="#2b2733" stroke="#8d6f78" stroke-width="3"/>
+    <circle cx="70" cy="58" r="34" fill="#ead6d6"/>
+    <path d="M32 55 C50 15 94 10 118 56 C103 36 81 32 65 38 C54 42 43 48 32 55" fill="#16131b"/>
+    <path d="M38 125 C25 175 18 230 5 290" stroke="#5e566b" stroke-width="11" fill="none"/>
+    <path d="M100 125 C115 175 125 230 138 290" stroke="#5e566b" stroke-width="11" fill="none"/>
+    <path d="M42 225 C30 265 28 310 25 350" stroke="#7e1c24" stroke-width="10" fill="none"/>
+    <path d="M98 225 C107 260 112 305 113 350" stroke="#7e1c24" stroke-width="10" fill="none"/>
+    <line x1="12" y1="330" x2="125" y2="330" stroke="#7e1c24" stroke-width="8"/>
+  </g>
+  <text x="78" y="970" class="s">天才音乐家 / 完美主义 / 以伤口换灵感</text>
+  <text x="78" y="1000" class="s">她保住了手，却最终失去了“自己”。</text>
+
+  <rect x="420" y="585" width="340" height="455" class="box"/>
+  <text x="445" y="628" class="h">三个愿望的扭曲实现</text>
+  <text x="445" y="690" class="t">✓ 灵感取之不尽</text><text x="470" y="722" class="s">但灵感的燃料是痛苦。</text>
+  <text x="445" y="782" class="t">✓ 创造最优美的曲子</text><text x="470" y="814" class="s">但只有死亡才能完成最后一笔。</text>
+  <text x="445" y="874" class="t">✓ 让人们心服口服</text><text x="470" y="906" class="s">但不是感动，而是精神崩溃。</text>
+  <path d="M450 955 C520 985 620 985 720 950" class="line"/>
+  <text x="476" y="1005" class="s">丘比没有说谎，只是从不说全。</text>
+
+  <rect x="800" y="195" width="330" height="845" class="box"/>
+  <text x="825" y="238" class="h">魔女化轨迹</text>
+  <text x="825" y="292" class="t">1. 期待：灵感爆发</text>
+  <text x="825" y="340" class="t">2. 枯竭：开始怀疑</text>
+  <text x="825" y="388" class="t">3. 发现：痛苦带来灵感</text>
+  <text x="825" y="436" class="t">4. 自残：刻花刀</text>
+  <text x="825" y="484" class="t">5. 失控：痛苦阈值升高</text>
+  <text x="825" y="532" class="t">6. 砍腿：理性的疯狂</text>
+  <text x="825" y="580" class="t">7. 上吊：终曲完成</text>
+  <line x1="830" y1="620" x2="1100" y2="620" class="line"/>
+  <text x="825" y="675" class="h">攻击方式</text>
+  <text x="825" y="730" class="t">精神攻击：</text>
+  <text x="845" y="762" class="s">八音盒演奏“最优美的曲子”</text>
+  <text x="825" y="820" class="t">物理攻击：</text>
+  <text x="845" y="852" class="s">音符发射，撕裂身体与意识</text>
+  <text x="825" y="925" class="h">使魔</text>
+  <text x="845" y="965" class="s">小小的笑着的八音盒，替她开心。</text>
+
+  <rect x="54" y="1085" width="520" height="330" class="box"/>
+  <text x="78" y="1130" class="h">魔女形态隐喻</text>
+  <text x="78" y="1188" class="t">巨大八音盒：被发条驱动，永远循环演奏。</text>
+  <text x="78" y="1238" class="t">晴天娃娃风铃：上吊姿态，祈求永不到来的晴天。</text>
+  <text x="78" y="1288" class="t">虚拟双手：创作已经不是她的意志，而是本能。</text>
+  <text x="78" y="1338" class="t">血色下摆：完成作品的代价被永久展示。</text>
+
+  <rect x="626" y="1085" width="504" height="330" class="box"/>
+  <text x="650" y="1130" class="h">与小圆世界观呼应</text>
+  <text x="650" y="1188" class="t">与沙耶香：愿望实现，代价无法承受。</text>
+  <text x="650" y="1238" class="t">与杏子：愿望没有错，结果却毁灭自身。</text>
+  <text x="650" y="1288" class="t">与焰：越追求，命运越沉重。</text>
+  <text x="650" y="1350" class="s">共同点：愿望从未落空，只是被残忍兑现。</text>
+
+  <rect x="54" y="1465" width="1076" height="210" class="box"/>
+  <text x="78" y="1520" class="h">一句话总结</text>
+  <text x="78" y="1585" class="t">她一生都在等一个观众为她鼓掌，最后她成了魔女，让所有人被迫“听”她的曲子。</text>
+  <text x="78" y="1635" class="t">她终于不用再伤害自己来获得灵感了，因为她已经变成了灵感本身。</text>
+  <text x="78" y="1715" class="en">All wishes came true. The price was herself.</text>
+</svg>
